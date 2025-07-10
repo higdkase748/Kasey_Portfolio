@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Kasey Higdon CV
+title: Kasey Higdon
 ---
 # Kasey Higdon
 Economics Major, Data Science Minor
